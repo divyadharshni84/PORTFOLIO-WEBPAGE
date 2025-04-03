@@ -81,3 +81,7 @@ Conclusion
 This internship task was an excellent opportunity to apply HTML and CSS skills in a real-world project. By designing a modern and responsive portfolio, I was able to practice key frontend concepts such as layout structuring, styling, and responsiveness. The final portfolio is a professional and visually appealing website that can serve as a developer’s online presence.
 
 This project helped reinforce the importance of clean code, structured layout, and user-friendly design, all of which are essential skills for a frontend developer.
+
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/6e5190d0-5cb6-4abc-a084-bb3e55eafb6a)
