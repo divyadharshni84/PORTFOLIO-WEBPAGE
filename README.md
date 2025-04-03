@@ -29,7 +29,7 @@ Contact Section (for communication details)
 
 Footer (for additional links or copyright information)
 
-Semantic elements like <header>, <section>, <article>, and <footer> were used to enhance readability and SEO-friendliness.
+Semantic elements like header,section, article, and footer were used to enhance readability and SEO-friendliness.
 
 2. CSS (Cascading Style Sheets)
 CSS was used to style the portfolio and make it visually appealing. The key aspects implemented include:
