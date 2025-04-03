@@ -83,5 +83,6 @@ This internship task was an excellent opportunity to apply HTML and CSS skills i
 This project helped reinforce the importance of clean code, structured layout, and user-friendly design, all of which are essential skills for a frontend developer.
 
 
-#OUTPUT
+#OUTPUT 
+
 ![Image](https://github.com/user-attachments/assets/6e5190d0-5cb6-4abc-a084-bb3e55eafb6a)
